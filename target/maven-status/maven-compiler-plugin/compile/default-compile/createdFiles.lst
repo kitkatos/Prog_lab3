@@ -1,0 +1,10 @@
+org\example\exception\NotFoundElementInArrayException.class
+org\example\newspaper\Newspaper.class
+org\example\stock\Stock.class
+org\example\person\MoneyHolder.class
+org\example\newspaper\NewspaperReader.class
+org\example\stock\StockMarket.class
+org\example\utils\ArrayUtils.class
+org\example\newspaper\NewspaperPublisher.class
+org\example\stock\StockPortfolio.class
+org\example\stock\StockBroker.class
